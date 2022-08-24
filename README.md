@@ -1,2 +1,2 @@
 # RocketChat_SCOM_Sender
-Sends messages from Microsoft System Center Operations Manager to RocketChat
+This is simply script for sending messages from Microsoft System Center Operations Manager to RocketChat with atachments
